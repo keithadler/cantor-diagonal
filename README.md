@@ -37,4 +37,4 @@ None of them depends on any axiom (`#print axioms` lists none): not `propext`, n
 lake build
 ```
 
-Lean 4.34.0 (see `lean-toolchain`). Written and checked in [Lean Studio](https://github.com/keithadler/leanstudio).
+Lean 4.36.0 (see `lean-toolchain`). Written and checked in [Lean Studio](https://github.com/keithadler/leanstudio).
